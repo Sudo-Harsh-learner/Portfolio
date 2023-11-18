@@ -52,23 +52,6 @@ button:focus {
   padding-right: 0px;
 }
 
-@media only screen and (max-width : 1183px) {
-  .first-image {
-    right: 160px;
-  }
-
-}
-
-.first-image {
-  position: absolute;
-  right: 0;
-}
-
-.boyimage {
-  height: 400px;
-  width: 570px;
-  /* padding-right: 200px; */
-}
 
 .p_120 {
   padding-top: 120px;
